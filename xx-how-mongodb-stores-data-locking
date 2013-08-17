@@ -1,0 +1,23 @@
+ ╔═══════════════════════════════════════════════════════════════╗
+ ║ How MongoDB Stores Data - Locking                             ║
+ ╠═══════════════════════════════════════════════════════════════╣
+ ║                                                               ║
+ ║   ● Locks are collection-level                                ║
+ ║                                                               ║
+ ║   ● Locking is write-greedy                                   ║
+ ║                                                               ║
+ ║   ● DOS Attacks are possible as a result                      ║
+ ║                                                               ║
+ ║   ● Has actually caused real problems at SkyBet               ║
+ ║                                                               ║
+ ║                                                               ║
+ ║                                                               ║
+ ║                                                               ║
+ ║                                                               ║
+ ║                                                               ║
+ ║                                                               ║
+ ║                                                               ║
+ ║                                                               ║
+ ║                                                               ║
+ ║                                                               ║
+ ╚═══════════════════════════════════════════════════════════════╝
