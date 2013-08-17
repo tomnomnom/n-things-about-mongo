@@ -1,0 +1,27 @@
+# N Things I Hate About MongoDB
+
+## What is MongoDB
+
+## How MongoDB stores data
+BSON
+Chunk Allocation
+Document Padding
+
+## Failover
+How it works
+Can't do a manual/clean failover
+Odd number of servers
+Arbiter
+
+## Data structures
+Surprising time complexity
+Redis vs. MongoDB
+Can't always store data in the most obvious/elegant way
+
+## Write locking
+DOS attack vector?
+Clean-up job at SkyBet
+
+## Hype
+Web Scale!
+
